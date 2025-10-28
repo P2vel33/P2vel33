@@ -56,9 +56,9 @@ Personal Qualities: Responsibility, determination, attention to detail, openness
   </p>
 </div>
 
-<div align="center">
-<p># 📊 GitHub Stats:</p>
-  
+
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">  
   ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P2vel33&theme=github_dark)
   ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P2vel33&theme=github_dark)
   ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P2vel33&theme=github_dark)
