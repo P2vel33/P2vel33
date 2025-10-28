@@ -57,7 +57,8 @@ Personal Qualities: Responsibility, determination, attention to detail, openness
 </div>
 
 <div align="center">
-# 📊 GitHub Stats:
+<p># 📊 GitHub Stats:</p>
+  
 ![](https://github-readme-stats.vercel.app/api?username=P2vel33&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=P2vel33&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=P2vel33&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
