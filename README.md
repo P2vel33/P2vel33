@@ -1,6 +1,6 @@
 
 <h1 align="center">💫 Pavel Fedotov</h1>
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <div align="center">
   <p>Summary</p>
